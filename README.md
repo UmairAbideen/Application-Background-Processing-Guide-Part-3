@@ -1,4 +1,4 @@
-# ⚡ Laravel 10 Background Processing (Part 3)
+# ⚡ App Background Processing Guide (Part 3)
 
 This project demonstrates how to use **Laravel Horizon** and **Supervisor** to monitor and manage background jobs in Laravel 10. These tools help ensure queue workers remain active, process jobs efficiently, and provide real-time monitoring of queued tasks.
 
