@@ -371,34 +371,3 @@ php artisan optimize:clear
 ```bash
 php artisan serve
 ```
-
----
-
-# 📌 Features
-
-- Laravel Horizon Dashboard
-- Queue Monitoring
-- Queue Worker Management
-- Redis Queue Integration
-- Automatic Worker Restart
-- Supervisor Configuration
-- Failed Job Monitoring
-- Production-Ready Queue Processing
-
----
-
-## 📷 Screenshots
-
-Add screenshots of the following:
-
-- Horizon Dashboard
-- Queue Worker Status
-- Supervisor Status
-- Processed Jobs
-- Failed Jobs
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
